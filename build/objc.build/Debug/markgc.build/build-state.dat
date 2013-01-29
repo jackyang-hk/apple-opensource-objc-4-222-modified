@@ -1,0 +1,54 @@
+Tmarkgc
+v5
+r1
+cCheck dependencies
+cCompileC build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o /Users/redcat/Desktop/objc4-222-修改后版本/markgc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Users/redcat/Desktop/objc4-222-修改后版本/build/Debug/markgc
+t2
+s0
+
+N/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.LinkFileList
+c0000000050EFA3E70000000000000071
+t1357882343
+s113
+
+N/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o
+t2
+s0
+
+N/Users/redcat/Desktop/objc4-222-修改后版本/markgc.c
+c00000000000000000000000000000000
+t2
+s0
+
+Nunexported_symbols
+c00000000000000000000000000000000
+t2
+s0
+
+CBuild AST from /Users/redcat/Desktop/objc4-222-修改后版本/markgc.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese02b1e67db9fb641^abaf2667db9fb641^---0#1#0#--18"Check dependencies36"258224CF-6593-4A64-A9B8-11A8CD1DDFF8-
+
+CCompileC build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o /Users/redcat/Desktop/objc4-222-修改后版本/markgc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s379575143.159410
+e379575143.169317
+r0
+xCompileC
+xbuild/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o
+x/Users/redcat/Desktop/objc4-222-修改后版本/markgc.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: no such file or directory: '/Users/redcat/Desktop/objc4-222-修改后版本/markgc.c'
+oclang: error: no input files
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/redcat/Desktop/objc4-222-修改后版本/markgc.cd5042967db9fb641^4b582b67db9fb641^-260"clang: error: no such file or directory: '/Users/redcat/Desktop/objc4-222-修改后版本/markgc.c'clang: error: no input filesCommand /Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-379575143#18446744073709551615#0#-2#--20"Clang LLVM 1.0 Error--0#0#0#-19%DVTDocumentLocation3@102"file://localhost/Users/redcat/Desktop/objc4-222-%E4%BF%AE%E6%94%B9%E5%90%8E%E7%89%88%E6%9C%AC/markgc.c000000000080d041^2466"CompileC build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o markgc.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/redcat/Desktop/objc4-222-修改后版本    setenv LANG en_US.US-ASCII    /Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -fasm-blocks -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/markgc-generated-files.hmap -I/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/markgc-own-target-headers.hmap -I/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/markgc-all-target-headers.hmap -iquote /Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/markgc-project-headers.hmap -I/Users/redcat/Desktop/objc4-222-修改后版本/build/Debug/include -I/Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode_4.5.2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/DerivedSources/i386 -I/Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/DerivedSources -Wall -Wno-four-char-constants -F/Users/redcat/Desktop/objc4-222-修改后版本/build/Debug -MMD -MT dependencies -MF /Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.d --serialize-diagnostics /Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.dia -c /Users/redcat/Desktop/objc4-222-修改后版本/markgc.c -o /Users/redcat/Desktop/objc4-222-修改后版本/build/objc.build/Debug/markgc.build/Objects-normal/i386/markgc.o36"D79F060D-90AC-420E-A00C-1D848761E50E-
+
+CLd /Users/redcat/Desktop/objc4-222-修改后版本/build/Debug/markgc normal i386
+r0
+
